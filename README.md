@@ -3,3 +3,6 @@ OpenAlgoTest-Developed NiftyQuant, a quantitative options analytics engine that 
 
 
 ![Plan](Plan_1.png)
+
+
+GREEN = SANGER ||  RED = SINGH
